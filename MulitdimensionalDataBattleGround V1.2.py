@@ -1,5 +1,5 @@
-#20190225_MulitdimensionalDataBattleGround_V1.1
-#Josh
+#20190225_MulitdimensionalDataBattleGround_V1.2
+#by Jacob McClure
 """
 v1.1 changelog
 - Added user stats
