@@ -1,5 +1,5 @@
 #20190228_MultidimensionalDataBattleGround_v1.1
-#by Jacob
+#by Jacob McClure
 
 """
 v1.0
