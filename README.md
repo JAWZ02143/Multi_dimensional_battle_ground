@@ -7,13 +7,13 @@ after 'V.11', it will change to 'V2.0
 '''
 
 
-v1.1 changelog
+V1.1 changelog
 
 - Added user stats
 - Added battle function
 
 
-1.2 Changelog
+V1.2 Changelog
 
 - changed names to monsters
 - added more monsters
