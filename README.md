@@ -25,6 +25,6 @@ V1.3 Changelog
 - Added Block
 
 
-V1.4 Changelog
+V1.5 Changelog
 
-- 
+- Removed monster from list after dying
